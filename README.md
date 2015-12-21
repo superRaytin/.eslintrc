@@ -1,7 +1,7 @@
-# .eslintr
+# eslintrc
 
-My .eslintrc configuration.
+My [.eslintrc](/.eslintrc) configuration.
 
-# License
+## License
 
 MIT, see the [LICENSE](/LICENSE) file for detail.
