@@ -8,7 +8,7 @@
     }
   },
   "env": {
-    "amd": true,
+    "amd": false,
     "jasmine": false,
     "node": true,
     "mocha": true,
@@ -28,6 +28,7 @@
     "no-empty": 2,
     "no-eval": 2,
     "no-extra-parens": 2,
+    "no-inner-declarations": 0,
     "no-unreachable": 2,
     "no-unused-expressions": 0,
     "no-unused-vars": 2,
@@ -49,7 +50,7 @@
     "no-new-object": 2,
     "no-irregular-whitespace": 2,
     "quotes": [2, "single"],
-    "strict": [2, "global"],
+    "strict": [1, "global"],
     "space-before-blocks": 2,
     "space-after-keywords": 2,
     "spaced-comment": 2,
