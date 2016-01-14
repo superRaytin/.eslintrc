@@ -7,7 +7,7 @@ My [.eslintrc](/.eslintrc) configuration.
 ## Installation
 
 ```
-npm install eslint-config-leonshi --save-dev
+npm install eslint-config-leon --save-dev
 ```
 
 ## Usage
@@ -17,7 +17,7 @@ package.json
 ```js
 "devDependencies": {
     "eslint": "~1.10.3",
-    "eslint-config-leonshi": "~0.1.0"
+    "eslint-config-leon": "~0.1.0"
 }
 ```
 
@@ -25,7 +25,7 @@ Edit `.eslintrc`
 
 ```js
 {
-    "extends": "eslint-config-leonshi"
+    "extends": "eslint-config-leon"
 }
 ```
 

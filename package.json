@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-leonshi",
+  "name": "eslint-config-leon",
   "version": "0.1.0",
-  "description": "Leon Shi's ESLint config",
+  "description": "Leon's ESLint config",
   "main": "index",
   "scripts": {
     "lint": "eslint index.js",
