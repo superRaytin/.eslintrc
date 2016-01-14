@@ -1,0 +1,35 @@
+{
+  "name": "eslint-config-leonshi",
+  "version": "0.1.0",
+  "description": "Leon Shi's ESLint config",
+  "main": "index",
+  "scripts": {
+    "lint": "eslint index.js",
+    "test": "./node_modules/.bin/mocha ./test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/superRaytin/eslintrc"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "javascript"
+  ],
+  "author": "Leon Shi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/superRaytin/eslintrc/issues"
+  },
+  "homepage": "https://github.com/superRaytin/eslintrc",
+  "devDependencies": {
+    "should": "~6.0.1",
+    "mocha": "~2.2.4",
+    "eslint": "^1.10.3",
+    "pre-commit": "1.x"
+  },
+  "peerDependencies": {
+    "eslint": ">=1.0.0"
+  }
+}
